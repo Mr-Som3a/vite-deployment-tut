@@ -1,5 +1,5 @@
 import {defineConfig} from "vite"
 
 export default defineConfig({
-    base:"/vite-deployment/"
+    base:"/vite-deployment-tut/"
 })
